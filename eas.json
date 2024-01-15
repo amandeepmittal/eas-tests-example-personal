@@ -19,7 +19,8 @@
       },
       "ios": {
         "simulator": true
-      }
+      },
+      "buildArtifactPaths": ["artifacts/**/*.png"]
     },
     "preview": {
       "distribution": "internal"
